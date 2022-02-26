@@ -7,6 +7,6 @@ to predict how anti-social behavior in a reality dating show changed contestants
 
 My capstone projects were:
 a simulatenous equations supply and demand model of black & green tea,
-focusing on US demand and global supply challenges. 
+focusing on US demand and global supply challenges; and
 a Oaxacan regression model describing how immigration status affects the
 wages of farm workers in the United States.
